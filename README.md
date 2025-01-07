@@ -8,7 +8,8 @@ Voeg je naam toe onderaan deze README.md.
 Zorg dat deze wijziging als commit op de remote repository zichtbaar is.
 
 Namen:
-Bart Duisters
+
+- Bart Duisters
 
 
 
